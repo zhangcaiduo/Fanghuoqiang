@@ -1,8 +1,6 @@
 # VPS 防火墙一键安装向导 (村民自建房版)
 
-![宣传图]([https://raw.githubusercontent.com/zhangcaiduo/Fanghuoqiang/main/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%20UFW%20%E6%8A%A4%E6%A0%8F%E5%8F%8A%E9%98%B2%E7%9B%97%E7%BD%91.jpg](https://github.com/zhangcaiduo/Fanghuoqiang/blob/main/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%20UFW%20%E6%8A%A4%E6%A0%8F%E5%8F%8A%E9%98%B2%E7%9B%97%E7%BD%91.png?raw=true))
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![村民自建房VPS宣传图](./一键安装%20UFW%20护栏及防盗网.jpg)
 
 一份由热心村民 **張財多** 与AI装修顾问 **Gemini** 共同打造的VPS安防小工具。
 
