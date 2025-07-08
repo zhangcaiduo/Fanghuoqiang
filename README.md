@@ -33,4 +33,4 @@ markdown ![](./一键安装%20UFW%20护栏及防盗网.png "村民自建房VPS�
 在你家的 **Debian** 或 **Ubuntu** 服务器上，喊下面这句“咒语”，安装师傅立马就到：
 
 ```shell
-bash <(curl -sSL
+bash <(curl -sSL https://raw.githubusercontent.com/zhangcaiduo/Fanghuoqiang/refs/heads/main/Fanghuoqiang.sh)
